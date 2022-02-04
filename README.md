@@ -2,7 +2,7 @@
 
 #### I'm a Frontend Lover's, recent market studies have led me to choose react js
 
-- 🔭  I’m currently working on ... developing my first website but this time with React Js
+- 🔨 I’m currently working on ... developing my first website but this time with React Js
 
 <!--
 **Javier94cuba/Javier94cuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
