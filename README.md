@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Javier Lopez
+
+# I'm a Frontend Lover's, recent market studies have led me to choose react js
 
 - 🔭  I’m currently working on ... developing my first website but this time with React Js
 
