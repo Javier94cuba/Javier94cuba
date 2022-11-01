@@ -8,7 +8,7 @@
 - 👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
 <br/>
 </br>
-⚡Curriculun Vitae:<br/>
+⚡ Curriculun Vitae ⚡:<br/>
  Javier Lopéz Hernández<br/>
  Frontend Developer<br/>
  Correo: jlopezhdez94@gmail.com<br/>
