@@ -25,7 +25,7 @@
  Universidad de las ciencias informaticas UCI 2014-2019
  
  
- 💻Junto a Wordpress:
+ 💻 Junto a Wordpress:
  He creado varios sitios webs en wordpress, usando temas de themeforest.com, como avada entre otros
  Como maquetador he tenido experciencia con divi builder, gotemberg, elementor pro (getengine), Avada builder 
  
