@@ -20,7 +20,7 @@
  dada la gran demanda del mercado y la gran comunidad e información que ronda sobre esta libreria.<br/> 
 
 
- 👯 Formacion escolar: Ing. en Ciencias Informáticas
+ 👯 Formacion escolar: Ing. en Ciencias Informáticas<br/> 
  Universidad de las ciencias informaticas UCI 2014-2019
  
  
