@@ -32,7 +32,7 @@
  He realizado sitios webs a partir de diseños en adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño orientado a conseguir
  la mejor experiencia del usuario.
  
- Ejemplo de sitios webs:
+ Ejemplo de sitios webs: <br/>
  websseller.com <br/>
  clinicashispanass.com <br/>
  clinicacorazonlatino.com <br/>
