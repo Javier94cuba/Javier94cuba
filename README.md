@@ -19,10 +19,12 @@
  🤔 Objetivo Profesional:
  Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar un nuevo reto con React-JS,
  dada la gran demanda del mercado y la gran comunidad e información que ronda sobre esta libreria.
- <br/>
+
+
  👯 Formacion escolar: Ing. en Ciencias Informáticas
  Universidad de las ciencias informaticas UCI 2014-2019
- <br/>
+ 
+ 
  💻Junto a Wordpress:
  He creado varios sitios webs en wordpress, usando temas de themeforest.com, como avada entre otros
  Como maquetador he tenido experciencia con divi builder, gotemberg, elementor pro (getengine), Avada builder 
