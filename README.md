@@ -1,12 +1,12 @@
 ## Hola a todos 👋, mi nombre es  Javier Lopéz Hernández
 
-#### Desarrollador frontend, dado el auge de la libreria de React-Js busco una nueva oportunidad laboral junto a esta gran librería
+#### Desarrollador frontend, con el gran auge que esta alcanzando la libreria de React-Js busco una nueva oportunidad laboral, para medir mis capacidades como frontend developer
 
 - 👨‍💻 Estoy desarrollando mi primer sitio con React JS 
 - 💯 Compentes y como pensar en modo React Js
 - 💻 Closures, Hooks, Consumir Apis rest, Sistemas grid
 - 👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
-
+<br/>
 - ⚡Curriculun Vitae:
  Javier Lopéz Hernández
  Frontend Developer
