@@ -33,12 +33,12 @@
  la mejor experiencia del usuario.
  
  Ejemplo de sitios webs:
- websseller.com
- clinicashispanass.com
- clinicacorazonlatino.com
- havanahousesportsbars.com
- detuchef.com
- avstarfish.com
+ websseller.com <br/>
+ clinicashispanass.com <br/>
+ clinicacorazonlatino.com <br/>
+ havanahousesportsbars.com <br/>
+ detuchef.com <br/>
+ avstarfish.com <br/>
  <br/>
  💻 Phytom: Trabaje en un proyecto acerca de 3 meses para la creacion de un bot que realizaba web scrapping a sitios de venta de articulos varios.
  
