@@ -7,10 +7,13 @@
 - 💻 Closures, Hooks, Consumir Apis rest, Sistemas grid
 - 👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
 <br/>
+</br>
 ⚡Curriculun Vitae:
  Javier Lopéz Hernández
  Frontend Developer
- Correo: jlopezhdez94@gmail.com Teléfono: +53 58386901 </br>
+ Correo: jlopezhdez94@gmail.com Teléfono: +53 58386901 
+ 
+ <br/>
  
  
  🤔 Objetivo Profesional:
