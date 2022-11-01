@@ -11,7 +11,8 @@
 ⚡Curriculun Vitae:<br/>
  Javier Lopéz Hernández<br/>
  Frontend Developer<br/>
- Correo: jlopezhdez94@gmail.com Teléfono: +53 58386901 
+ Correo: jlopezhdez94@gmail.com<br/>
+ Teléfono: +53 58386901 
  
  <br/>
  
