@@ -41,6 +41,7 @@ avstarfish.com
 
 I was a short project along with  developer from abroad, we used libraries as Scrapy. Selenium. BeautifulSoup.
 
+Currently working at Dofleini S.R.L. 
  
  
 <!--
