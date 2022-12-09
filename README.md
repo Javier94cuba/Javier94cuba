@@ -1,33 +1,34 @@
-## Hola a todos 👋, mi nombre es Javier Lopéz Hernández
+## Hello everyone 👋. My name is Javier Lopéz Hernández
 
-Desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alcanzando este CMS busco una nueva oportunidad laboral, para medir mis capacidades como frontend developer.
+I am a Web developer, I use Wordpress´ CMS and I am looking for new job opportunities to enhance my skills as frontend developer.
 
-Mi experiencia es de +3 años en la creación de sitios, usando varias herramientas de este CMS.
+I have +3 years of experience in web site development; using several Wordpress tools and plugins.
 
-👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer
-💯 Mis habilidades se adaptan a varios tipos de proyectos 
-💻 Maquetadores visuales, Plugins, email-marqueting
-👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
+👨‍💻 I have finished several websites working freelancer and as a team. 
+💯 My skills adapt to several proyects
+💻 Page builders, plugins, email marqueting
+👯 Looking forward to colaborte whith a company to put all my effort as a frontend developer.
 
 
 ⚡ Curriculun Vitae ⚡
 Javier Lopéz Hernández
 Frontend Developer
-Correo: jlopezhdez94@gmail.com
-Teléfono: +53 58386901
+Email: jlopezhdez94@gmail.com
+Cellphone: +53 58386901
 
-🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional.
+🤔 Professional goals: I am passionate about Web Development, I have been developing Websites with Wordpress but I wish to face new challenges in my professional carrer.
 
-👯 Formacion escolar: Ing. en Ciencias Informáticas
-Universidad de las ciencias informaticas UCI 2014-2019
+👯 Studies: Engineer in Informatic Sciences at University of Informatic Sciences (2014 - 2019)
 
-💻 Junto a Wordpress: He creado varios sitios webs en wordpress, usando temas de themeforest.com, como Avada entre otros Como maquetador he tenido experciencia con divi builder, goteemberg, elementor pro (getengine), Avada builder entre otros.
+-My diploma paper was meant to display 3D images in the medical field, developed with C++.
 
-He realizado sitios webs a partir de diseños en Adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño orientado a conseguir la mejor experiencia para el  usuario.
+💻 Wordpress Experience: I have developed several Wordpress sites using Thmeforest.com´s tools like Avada. I have worked with several page builders as Divi, Gottemberg, Elementor Pro (jet engine) and Avada Builder.
 
-He realizado traducciones al inglés utilizando el plugin WPML.
+I have thived Web sites from scratch based on Adobe.xd designs, taking into account pixel perfect designs to archieve the best user experience. 
 
-Ejemplo de sitios:
+I have carried out translations using WPML.
+
+Web sites sample:
 
 websseller.com
 clinicashispanass.com
@@ -36,11 +37,9 @@ havanahousesportsbars.com
 detuchef.com
 avstarfish.com
 
-💻 Phytom: Trabaje en un proyecto acerca de 3 meses para la creacion de un bot que realizaba web scrapping a sitios de venta de articulos varios.
+💻 Phytom: I worked for nearly three months in a project dedicated to web scrapping to markets places.
 
-Fue un proyecto preciso y de corta duracion, en conjunto con desarrolladores de otras partes del mundo.
-
-usamos varias librerias como: Scrapy. Selenium. BeautifulSoup.
+I was a short project along with  developer from abroad, we used libraries as Scrapy. Selenium. BeautifulSoup.
 
  
  
