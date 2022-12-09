@@ -30,8 +30,8 @@ I have carried out translations using WPML.
 
 Web sites sample:
 
-websseller.com
-clinicashispanass.com
+websseller.com <br>
+clinicashispanass.com <br>
 clinicacorazonlatino.com
 havanahousesportsbars.com
 detuchef.com
