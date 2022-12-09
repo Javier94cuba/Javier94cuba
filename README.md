@@ -32,9 +32,9 @@ Web sites sample:
 
 websseller.com <br>
 clinicashispanass.com <br>
-clinicacorazonlatino.com
-havanahousesportsbars.com
-detuchef.com
+clinicacorazonlatino.com <br>
+havanahousesportsbars.com <br>
+detuchef.com <br>
 avstarfish.com
 
 💻 Phytom: I worked for nearly three months in a project dedicated to web scrapping to markets places.
