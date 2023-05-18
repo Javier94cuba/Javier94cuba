@@ -1,6 +1,6 @@
 ## Hola a todos 👋, mi nombre es Javier Lopéz Hernández
 
-Desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alcanzando este CMS busco una nueva oportunidad laboral, para medir mis capacidades como frontend developer.
+Desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alcanzando este CMS busco un nuevo reto laboral, para medir mis capacidades como frontend developer usando la libreria de React.
 
 Mi experiencia es de +3 años en la creación de sitios, usando varias herramientas de este CMS.
 
