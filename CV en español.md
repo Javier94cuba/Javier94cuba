@@ -10,10 +10,10 @@ Mi experiencia es de +3 años en la creación de sitios, usando varias herramien
 👯 Me encuentro buscando colaborar en algún proyecto de forma remota, donde dedicarle todo mi esfuerzo como frontend developer
 
 
-⚡ Curriculum Vitae ⚡
-Javier Lopéz Hernández
-Frontend Developer
-Correo: jlopezhdez94@gmail.com
+⚡ Curriculum Vitae ⚡ <br>
+Javier Lopéz Hernández <br>
+Frontend Developer <br> 
+Correo: jlopezhdez94@gmail.com <br>
 Teléfono: +53 58386901
 
 🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional, emigrando mis proyectos utilizando la librería de React.
