@@ -29,7 +29,7 @@ Con maquetadores visuales he tenido experciencia con Divi Builder, Goteemberg, E
 
 He realizado sitios webs a partir de diseños en Adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño, orientado a conseguir la mejor experiencia para el usuario.
 
-He realizado traducciones del español al inglés utilizando el plugin WPML y Loco translate.
+He realizado traducciones del (español -> inglés) utilizando el plugin WPML y Loco translate.
 
 Ejemplo de sitios web creados:
 
@@ -45,9 +45,9 @@ modaslis.com
 
 Trabaje en un proyecto acerca de 3 meses para la creacion de un bot que realizaba web scrapping a sitios de venta de articulos varios.
 
-Fue un proyecto preciso y de corta duracion, en conjunto con desarrolladores en españa.
+Fue un proyecto preciso y de corta duración, en conjunto con desarrolladores en España.
 
-usamos varias librerias como: Scrapy. Selenium. BeautifulSoup y Github como controlador de versiones.
+usamos varias librerías como: Scrapy. Selenium. BeautifulSoup y Github como controlador de versiones.
 
  
 
