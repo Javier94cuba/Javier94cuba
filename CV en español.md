@@ -25,7 +25,7 @@ Universidad de las ciencias informáticas UCI (La Habana) 2014-2019
 
 He creado varios sitios webs en wordpress, usando temas comprados en themeforest.com, como Avada entre otros. 
 
-Con maquetadores visuales he tenido experciencia con divi builder, goteemberg, elementor pro (getengine), Avada builder.
+Con maquetadores visuales he tenido experciencia con Divi Builder, Goteemberg, Elementor Pro (getengine), Avada Builder.
 
 He realizado sitios webs a partir de diseños en Adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño, orientado a conseguir la mejor experiencia para el usuario.
 
