@@ -4,9 +4,9 @@ Desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alca
 
 Mi experiencia es de +3 años en la creación de sitios, usando varias herramientas de este CMS.
 
-👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer
-💯 Mis habilidades se adaptan a varios tipos de proyectos 
-💻 Maquetadores visuales, Plugins, email-marqueting
+👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer <br>
+💯 Mis habilidades se adaptan a varios tipos de proyectos <br>
+💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online  <br>
 👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
 
 
