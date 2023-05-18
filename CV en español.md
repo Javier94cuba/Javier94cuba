@@ -49,8 +49,9 @@ Fue un proyecto preciso y de corta duración, en conjunto con desarrolladores en
 
 usamos varias librerías como: Scrapy. Selenium. BeautifulSoup y Github como controlador de versiones.
 
- 
+ 💻 React JS: <br>
 
+ Me encuentro en proceso de migracion de mi sitio en wordpress a React Js, tratando de usar las mejores practicas para esto.
 <!--
 **Javier94cuba/Javier94cuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
