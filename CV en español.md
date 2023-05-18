@@ -19,7 +19,7 @@ Teléfono: +53 58386901
 🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional, emigrando mis proyectos utilizando la librería de React.
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas
-Universidad de las ciencias informáticas UCI (La Habana) 2014-2019
+Universidad de las Ciencias Informáticas UCI (La Habana) 2014-2019
 
 💻 Wordpress: <br> 
 
