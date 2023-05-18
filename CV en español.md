@@ -33,12 +33,12 @@ He realizado traducciones del español al inglés utilizando el plugin WPML y Lo
 
 Ejemplo de sitios web creados:
 
-websseller.com
-clinicashispanass.com
-clinicacorazonlatino.com
-havanahousesportsbars.com
-detuchef.com
-avstarfish.com
+websseller.com <br>
+clinicashispanass.com <br>
+clinicacorazonlatino.com <br>
+havanahousesportsbars.com <br>
+detuchef.com <br>
+avstarfish.com <br>
 modaslis.com
 
 💻 Phytom: <br> 
