@@ -6,8 +6,8 @@ Mi experiencia es de +3 años en la creación de sitios, usando varias herramien
 
 👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer <br>
 💯 Mis habilidades se adaptan a varios tipos de proyectos <br>
-💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online  <br>
-👯 Buscando colaborar con... alguna empresa donde dedicarle todo mi esfuerzo como frontend developer
+💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Base de datos <br>
+👯 Buscando colaborar con algun proyecto donde dedicarle todo mi esfuerzo como frontend developer
 
 
 ⚡ Curriculun Vitae ⚡
@@ -16,18 +16,18 @@ Frontend Developer
 Correo: jlopezhdez94@gmail.com
 Teléfono: +53 58386901
 
-🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional.
+🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional, emigrando mis proyectos utilizando la librería de React.
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas
-Universidad de las ciencias informaticas UCI 2014-2019
+Universidad de las ciencias informáticas UCI (La Habana) 2014-2019
 
-💻 Junto a Wordpress: He creado varios sitios webs en wordpress, usando temas de themeforest.com, como Avada entre otros Como maquetador he tenido experciencia con divi builder, goteemberg, elementor pro (getengine), Avada builder entre otros.
+💻 Junto a Wordpress: He creado varios sitios webs en wordpress, usando temas obtenidos en themeforest.com, como Avada entre otros. Con maquetadores visuales he tenido experciencia con divi builder, goteemberg, elementor pro (getengine), Avada builder.
 
-He realizado sitios webs a partir de diseños en Adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño orientado a conseguir la mejor experiencia para el  usuario.
+He realizado sitios webs a partir de diseños en Adobe.xd, teniendo en cuenta un diseño pixel perfect para la optimización del diseño, orientado a conseguir la mejor experiencia para el usuario.
 
-He realizado traducciones al inglés utilizando el plugin WPML.
+He realizado traducciones del español al inglés utilizando el plugin WPML y Loco translate.
 
-Ejemplo de sitios:
+Ejemplo de sitios web creados:
 
 websseller.com
 clinicashispanass.com
@@ -39,9 +39,9 @@ modaslis.com
 
 💻 Phytom: Trabaje en un proyecto acerca de 3 meses para la creacion de un bot que realizaba web scrapping a sitios de venta de articulos varios.
 
-Fue un proyecto preciso y de corta duracion, en conjunto con desarrolladores de otras partes del mundo.
+Fue un proyecto preciso y de corta duracion, en conjunto con desarrolladores en españa.
 
-usamos varias librerias como: Scrapy. Selenium. BeautifulSoup.
+usamos varias librerias como: Scrapy. Selenium. BeautifulSoup y Github como controlador de versiones.
 
  
 
