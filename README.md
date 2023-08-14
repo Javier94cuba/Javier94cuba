@@ -1,13 +1,13 @@
-Hola 👋, mi nombre es Javier Lopéz Hernández
+Hola 👋, mi nombre es Javier Lopéz
 
 Soy desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alcanzando la librería de React busco un nuevo reto laboral, para medir mis capacidades como frontend developer y crecer en este ámbito laboral del desarrollo web.
 
-Mi experiencia es de +3 años en la creación de sitios, usando varias herramientas de este gran CMS.
+Mi experiencia es de +4 años en la creación de sitios, usando varias herramientas de este gran CMS.
 
 👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer
 💯 Mis habilidades se adaptan a varios tipos de proyectos
 💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Bases de datos
-👯 Me encuentro buscando colaborar en algún proyecto de forma remota, donde dedicarle todo mi esfuerzo como frontend developer
+👯 Me encuentro buscando colaborar en algún proyecto de forma remota o presencial en La Habana (Cuba), donde dedicarle todo mi esfuerzo como frontend developer
 
 ⚡ Curriculum Vitae ⚡
 Javier Lopéz Hernández
@@ -18,6 +18,11 @@ Teléfono: +53 58386901
 🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional, emigrando mis proyectos utilizando la librería de React.
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas Universidad de las Ciencias Informáticas UCI (La Habana) 2014-2019
+
+
+💻 React JS:
+
+Me encuentro en proceso de migracion de mi sitio en wordpress a React Js, tratando de usar las mejores practicas para esto.
 
 💻 Wordpress:
 
@@ -47,13 +52,6 @@ Fue un proyecto preciso y de corta duración, en conjunto con desarrolladores en
 
 usamos varias librerías como: Scrapy. Selenium. BeautifulSoup y Github como controlador de versiones.
 
-💻 React JS:
-
-Me encuentro en proceso de migracion de mi sitio en wordpress a React Js, tratando de usar las mejores practicas para esto.
-<!--
-**Javier94cuba/Javier94cuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
