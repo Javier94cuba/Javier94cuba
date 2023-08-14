@@ -4,9 +4,9 @@ Soy desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta 
 
 Mi experiencia es de +4 años en la creación de sitios, usando varias herramientas de este gran CMS (Wordpress).
 
-👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer
-💯 Mis habilidades se adaptan a varios tipos de proyectos
-💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Bases de datos
+👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer<br/>
+💯 Mis habilidades se adaptan a varios tipos de proyectos<br/>
+💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Bases de datos<br/>
 👯 Me encuentro buscando colaborar en algún proyecto de forma remota o presencial en La Habana (Cuba), donde dedicarle todo mi esfuerzo como frontend developer
 
 ⚡ Curriculum Vitae ⚡
