@@ -1,4 +1,4 @@
-Hola 👋, mi nombre es Javier Lopéz
+Hola 👋
 
 Soy desarrollador web utilizando el CMS de Wordpress, con el gran auge que esta alcanzando la librería de React busco un nuevo reto laboral, para medir mis capacidades como frontend developer y crecer en este ámbito laboral del desarrollo web.
 
