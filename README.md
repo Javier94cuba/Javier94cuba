@@ -9,7 +9,7 @@ Mi experiencia es de +4 años en la creación de sitios, usando varias herramien
 💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Bases de datos<br/>
 👯 Me encuentro buscando colaborar en algún proyecto de forma remota o presencial en La Habana (Cuba), donde dedicarle todo mi esfuerzo como frontend developer
 
-⚡ Contact info ⚡<br/>
+⚡ Contactáme ⚡<br/>
 Javier Lopéz Hernández<br/>
 Frontend Developer<br/>
 Correo: jlopezhdez94@gmail.com<br/>
