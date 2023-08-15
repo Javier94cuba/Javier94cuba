@@ -1,8 +1,8 @@
 Hola 👋
 
-Con el auge que esta alcanzando la librería de React busco un nuevo reto laboral, para medir mis capacidades como frontend developer.
+Con el auge que esta alcanzando la librería de React busco un nuevo reto laboral, para medir mis capacidades como frontend developer
 
-Mi experiencia es de +4 años en la creación de sitios, usando varias herramientas de Wordpress.
+Mi experiencia es de +4 años en la creación de sitios, usando varias herramientas de Wordpress
 
 👨‍💻 He concluido varios sitios web trabajando en equipo y como freelancer<br/>
 
@@ -18,7 +18,7 @@ Frontend Developer<br/>
 Correo: jlopezhdez94@gmail.com<br/>
 Teléfono: +53 58386901
 
-🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos en este ámbito profesional, emigrando mis proyectos utilizando la librería de React.
+🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo 3 años desarrollando sitios con wordpress pero deseo empezar nuevos retos como frontend developer 
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas Universidad de las Ciencias Informáticas UCI (La Habana) 2014-2019
 
