@@ -26,16 +26,16 @@ Teléfono: +53 58386901
  
 Me encuentro en proceso de migración de mi sitio en wordpress a React Js, tratando de usar las mejores practicas para esto.
 
-- ⚡ Temas que domino sobre la librería de React: 
---> Como herramienta de compilación uso Vite en mis proyectos y Create React App
---> Vercel para el deploy y previsualización de los proyectos
---> Figma y Adobe.xd para el desarrollo de interfaces  
---> Manejo del estado (useState, useEffect - useContext)
---> React Router para el proceso de enrutado y navegación dentro de nuestra aplicación
---> LLamadas a las APi (fetch, Axios)
---> Pruebas al software (Jest, Cypress para pruebas e2e)
+- ⚡ Temas que domino sobre la librería de React:<br/> 
+--> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
+--> Vercel para el deploy y previsualización de los proyectos<br/>
+--> Figma y Adobe.xd para el desarrollo de interfaces  <br/>
+--> Manejo del estado (useState, useEffect - useContext)<br/>
+--> React Router para el proceso de enrutado y navegación dentro de nuestra aplicación<br/>
+--> LLamadas a las APi (fetch, Axios)<br/>
+--> Pruebas al software (Jest, Cypress para pruebas e2e)<br/>
 --> Formik y React Hook Form
 
-    Estudiando
---> Suspense, Lazy loading
+    Estudiando<br/>
+--> Suspense, Lazy loading<br/>
 --> Portales ()     
