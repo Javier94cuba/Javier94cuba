@@ -18,7 +18,7 @@ Frontend Developer<br/>
 Correo: jlopezhdez94@gmail.com<br/>
 Teléfono: +53 58386901
 
-🤔 Objetivo Profesional: Me apasiona el mundo del desarrollo web, llevo +4 años desarrollando sitios con wordpress pero deseo empezar nuevos retos como frontend developer 
+🤔 Objetivo Profesional:Busco un proyecto part-time o full-time, como frontend developer 
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas - Universidad de las Ciencias Informáticas UCI (La Habana) 2014-2019
 
