@@ -11,7 +11,7 @@ Me encuentro en proceso de migración de mi sitio en wordpress a React Js, trata
 --> Vercel para el deploy y previsualización de los proyectos<br/>
 --> Figma y Adobe.xd para el desarrollo de interfaces  <br/>
 --> Manejo del estado (useState, useEffect - useContext)<br/>
---> React Router para el proceso de enrutado y navegación dentro de nuestra aplicación<br/>
+--> React Router para el proceso de enrutado y navegación dentro de la aplicación<br/>
 --> LLamadas a las APi (fetch, Axios)<br/>
 --> Pruebas al software (Vitest, Cypress para pruebas e2e)<br/>
 --> Formik y React Hook Form
