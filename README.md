@@ -1,10 +1,8 @@
 Hola 👋
 
-Con el auge que esta alcanzando la librería de React busco un nuevo reto laboral, para medir mis capacidades como frontend developer
-
 💻 Mi experiencia con React JS:
  
-Me encuentro en proceso de migración de mi sitio en wordpress a React Js, tratando de usar las mejores practicas para esto.
+Me encuentro en proceso de migración de mi sitio en wordpress a React Js.
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
 --> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
@@ -33,8 +31,6 @@ Mi experiencia es de +4 años en la creación de sitios, usando el cms de Wordpr
 💯 Mis habilidades se adaptan a varios tipos de proyectos<br/>
 
 💻 Maquetadores visuales, Plugins, email-marqueting, SEO, Traducciones, Landing Pages (a partir de diseños), Tiendas Online, Bases de datos<br/>
-
-🤔 Me encuentro buscando colaborar en algún proyecto de forma remota o presencial en La Habana (Cuba), donde dedicarle todo mi esfuerzo como frontend developer
 
 👯 Formacion escolar: Ing. en Ciencias Informáticas - Universidad de las Ciencias Informáticas UCI (La Habana) 2014-2019
 
