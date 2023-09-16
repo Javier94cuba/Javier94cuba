@@ -1,14 +1,14 @@
 Hola 👋
 
 💻 Mi experiencia con React JS:
- 
-Me encuentro en proceso de migración de mi sitio en wordpress a React Js.
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
 --> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
 --> Vercel para el deploy y previsualización de los proyectos<br/>
 --> Figma y Adobe.xd para el desarrollo de interfaces  <br/>
 --> Manejo del estado (useState, useEffect - useContext)<br/>
+--> Manejo del estado global (Redux-toolquit, Redux-persist)<br/>
+--> Manejo sobre async-storage<br/>
 --> React Router para el proceso de enrutado y navegación dentro de la aplicación<br/>
 --> LLamadas a las APi (fetch, Axios)<br/>
 --> Pruebas al software (Vitest, Cypress para pruebas e2e)<br/>
@@ -17,10 +17,12 @@ Me encuentro en proceso de migración de mi sitio en wordpress a React Js.
     Estudiando<br/>
 --> Suspense, Lazy loading<br/>
 --> Portales ()
+  
+💻 Mi experiencia con React Native:
 
   ⚡ Contactáme ⚡<br/>
 Javier Lopéz Hernández<br/>
-Frontend Developer<br/>
+Frontend Developer and movile whith React Js<br/>
 Correo: jlopezhdez94@gmail.com<br/>
 Teléfono: +53 58386901
 
