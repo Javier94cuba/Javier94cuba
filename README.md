@@ -1,7 +1,7 @@
 Hola 👋
 
 💻 Mi experiencia con React JS:
-<h1 align="center"> 💻 Mi experiencia con React JS: </h1>
+<h2> 💻 Mi experiencia con React JS: </h2>
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
 --> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
