@@ -1,6 +1,5 @@
 Hola 👋
 
-💻 Mi experiencia con React JS:
 <h2> 💻 Mi experiencia con React JS: </h2>
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
@@ -19,7 +18,7 @@ Hola 👋
 --> Suspense, Lazy loading<br/>
 --> Portales ()
   
-💻 Mi experiencia con React Native:
+<h2> 💻 Mi experiencia con React Native: </h2>
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
 --> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
@@ -33,7 +32,7 @@ Hola 👋
 --> Pruebas al software (Vitest, Cypress para pruebas e2e)<br/>
 --> Formik y React Hook Form
 
-💻 Mi experiencia con Wordpress:
+<h2> 💻 Mi experiencia con Wordpress: </h2>
 
 - ⚡ Temas que domino sobre la Wordpress y plugins<br/> 
 --> Creación de sitios web de forma autonoma, comprando un tema asociado al cliente en themeforest.com y plugins necesarios<br/>
