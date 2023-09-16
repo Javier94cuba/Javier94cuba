@@ -35,15 +35,15 @@ Hola 👋
 <h2> 💻 Mi experiencia con Wordpress: </h2>
 
 - ⚡ Temas que domino sobre la Wordpress y plugins<br/> 
---> Creación de sitios web de forma autonoma, comprando un tema asociado al cliente en themeforest.com y plugins necesarios<br/>
+--> Creación de sitios web de forma autonoma, comprando un tema asociado al cliente en <a href="https://www.themeforest.com/">Themeforest</a> y plugins necesarios<br/>
 --> Manejo de Hosting, dominios y base de datos a partir del Servicio de <a href="https://www.webempresa.com/">Webempresa</a><br/>
 --> Maquetadores visuales: Elementor Pro, Avada, Divi Builder, Goteemberg<br/>
 --> Figma y Adobe.xd para el desarrollo guiado por diseñadores <br/>
 --> Como plugin para traducciones hago uso de WPML<br/>
---> Jet Engine y la suite de crocoblok para proyectos de tamaño medio-grandes<br/>
+--> Jet Engine y la suite de Crocoblok para proyectos de tamaño medianos-grandes<br/>
 --> Sliders, manejo de emails, redes sociales<br/>
 
-Stio en desarrollo: cubaphototrips.com
+Stio en desarrollo:<a href="https://cubaphototrips.com/">Cubaphototrips</a>
 
   ⚡ Contactáme ⚡<br/>
 Javier Lopéz Hernández<br/>
