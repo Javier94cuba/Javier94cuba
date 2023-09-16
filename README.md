@@ -36,7 +36,7 @@ Hola 👋
 
 - ⚡ Temas que domino sobre la Wordpress y plugins<br/> 
 --> Creación de sitios web de forma autonoma, comprando un tema asociado al cliente en themeforest.com y plugins necesarios<br/>
---> Manejo de Hosting, dominios y base de datos a partir del Servicio de <a href="https://www.mozilla.com/">Enlace externo</a><br/>
+--> Manejo de Hosting, dominios y base de datos a partir del Servicio de <a href="https://www.webempresa.com/">Webempresa</a><br/>
 --> Maquetadores visuales: Elementor Pro, Avada, Divi Builder, Goteemberg<br/>
 --> Figma y Adobe.xd para el desarrollo guiado por diseñadores <br/>
 --> Como plugin para traducciones hago uso de WPML<br/>
