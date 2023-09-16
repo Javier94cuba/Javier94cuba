@@ -1,4 +1,6 @@
 Hola 👋
+![Uploading react.jpg…]()
+
 
 <h2> 💻 Mi experiencia con React JS: </h2>
 
