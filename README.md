@@ -12,7 +12,7 @@ Hola 👋
 --> React Router para el proceso de enrutado y navegación dentro de la aplicación<br/>
 --> LLamadas a las APi (fetch, Axios)<br/>
 --> Pruebas al software (Vitest, Cypress para pruebas e2e)<br/>
---> Formik y React Hook Form
+--> React Hook Form
 
     Estudiando<br/>
 --> Suspense, Lazy loading<br/>
