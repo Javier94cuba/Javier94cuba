@@ -4,6 +4,7 @@ Hola 👋
 
 - ⚡ Temas que domino sobre la librería de React:<br/> 
 --> Como herramienta de compilación uso Vite en mis proyectos y Create React App<br/>
+--> Tailwindcss
 --> Vercel para el deploy y previsualización de los proyectos<br/>
 --> Figma y Adobe.xd para el desarrollo de interfaces  <br/>
 --> Manejo del estado (useState, useEffect - useContext)<br/>
@@ -16,7 +17,7 @@ Hola 👋
 
     Estudiando<br/>
 --> Suspense, Lazy loading<br/>
---> Portales ()
+--> Portales ()<br/>
 --> Next Js ()
 
 <h2> 💻 Mi experiencia con Wordpress: </h2>
