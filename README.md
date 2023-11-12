@@ -12,7 +12,7 @@ Hola 👋
 --> Manejo sobre async-storage<br/>
 --> React Router para el proceso de enrutado y navegación dentro de la aplicación<br/>
 --> LLamadas a las APi (fetch, Axios)<br/>
---> Pruebas al software (Vitest, Cypress para pruebas e2e)<br/>
+--> Postman<br/>
 --> React Hook Form
 
     Estudiando<br/>
