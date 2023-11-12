@@ -17,8 +17,8 @@ Hola 👋
 
     Estudiando<br/>
 --> Suspense, Lazy loading<br/>
---> Portales ()<br/>
---> Next Js () proyecto en desarrollo
+--> Portales <br/>
+--> Next Js (proyecto en desarrollo) 
 
 <h2> 💻 Mi experiencia con Wordpress: </h2>
 
