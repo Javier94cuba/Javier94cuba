@@ -31,7 +31,8 @@ Hola 👋
 --> Jet Engine y la suite de Crocoblok para proyectos de tamaño medianos-grandes<br/>
 --> Sliders, manejo de emails, redes sociales<br/>
 
-    Sitio en desarrollo:<a href="https://cubaphototrips.com/">Cubaphototrips</a>
+    Sitio en desarrollo:<a href="https://cubaphototrips.com/">Cubaphototrips</a> <br>
+  <a href="https://tiendacentro.net/">Tiendacentro.net</a>
 
   ⚡ Contactáme ⚡<br/>
 Javier Lopéz Hernández<br/>
