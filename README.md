@@ -32,7 +32,7 @@ Hola 👋
 --> All in one Migration, migraciones de proyectos<br/>
 --> Sliders (Slider Revolution), manejo de servidores de correo (Wp Mail Smtp)
 --> Jet Engine y la suite de Crocoblok para proyectos de tamaño medianos-grandes<br/>
---> Woocomerce
+--> Woocomerce <br/>
 --> Varias monedas de pago (Yay commerce), <br/>
 --> Dokan para multivendors en un woocomerce<br/>
 --> Manejo de redes sociales y clientes de mensajeria como WhatsApp<br/>
