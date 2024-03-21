@@ -29,7 +29,15 @@ Hola 👋
 --> Figma y Adobe.xd para el desarrollo guiado por diseñadores <br/>
 --> Como plugin para traducciones hago uso de WPML<br/>
 --> Jet Engine y la suite de Crocoblok para proyectos de tamaño medianos-grandes<br/>
---> Sliders, manejo de emails, redes sociales<br/>
+--> All in one Migration, migraciones de proyectos<br/>
+--> Sliders (Slider Revolution), manejo de servidores de correo (Wp Mail Smtp)
+--> Jet Engine y la suite de Crocoblok para proyectos de tamaño medianos-grandes<br/>
+--> Woocomerce
+--> Varias monedas de pago (Yay commerce), <br/>
+--> Dokan para multivendors en un woocomerce<br/>
+--> Manejo de redes sociales y clientes de mensajeria como WhatsApp<br/>
+--> He trabajado para varias empresas como desarrollador como Byt , Tecopos y Doffleini <br/>
+
 
     Sitios en desarrollo : <br>
   <a href="https://cubaphototrips.com/">Cubaphototrips</a> <br>
