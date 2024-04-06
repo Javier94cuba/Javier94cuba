@@ -36,7 +36,7 @@ Hola 👋
 --> Varias monedas de pago (Yay commerce), <br/>
 --> Dokan para multivendors en un woocomerce<br/>
 --> Manejo de redes sociales y clientes de mensajeria como WhatsApp<br/>
---> He trabajado para varias empresas como desarrollador como Byt , Tecopos y Doffleini <br/>
+--> He trabajado para varias empresas como desarrollador como Byt , Tecopos, 2mas2websites (empresa española) y Doffleini <br/>
 
 
     Sitios en desarrollo : <br>
