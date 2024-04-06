@@ -41,9 +41,9 @@ Hola 👋
 
     Sitios en desarrollo : <br>
   <a href="https://cubaphototrips.com/">Cubaphototrips</a> <br>
-  <a href="https://tiendacentro.net/">Tiendacentro.net</a>
-  <a href="https://autotallercastell.es/">Auto Taller Castell</a>
-  <a href="https://www.tuhogarenlacostatropical.com/">Tuhogarenlacostatropical</a>
+  <a href="https://tiendacentro.net/">Tiendacentro.net</a> <br>
+  <a href="https://autotallercastell.es/">Auto Taller Castell</a> <br>
+  <a href="https://www.tuhogarenlacostatropical.com/">Tuhogarenlacostatropical</a> <br>
   <a href="https://awardsofhappiness.com/">Awardsofhappiness</a>
   
   ⚡ Contactáme ⚡<br/>
